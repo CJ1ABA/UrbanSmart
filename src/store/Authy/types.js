@@ -1,0 +1,1 @@
+export const TO_LOGIN = "@Authy/to log-in";
